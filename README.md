@@ -49,8 +49,8 @@
       delay(100);
     }
     ```
- * 채팅 청소 
-   * ~지워 (지울메세지수)
+ * 근접 감지 센서를 사용한 제작품 
+   * 초인등
     ```python
     void setup() {
       pinMode(13,OUTPUT); //LED 번호
